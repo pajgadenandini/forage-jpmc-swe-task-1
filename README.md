@@ -1,2 +1,4 @@
 # JPMC Task 1
-Starter repo for task 1 of the JPMC software engineering program
+How Software Engineers help JPMorgan Chase traders by building dashboards to better identify under/over-valued stocks.
+How to set up your dev environment by installing python, forking and cloning the starter repo and installing project dependencies
+What an engineering ticket looks like
